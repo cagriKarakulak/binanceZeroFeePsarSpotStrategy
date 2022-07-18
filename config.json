@@ -1,0 +1,10 @@
+{
+    "apiKey": "",
+    "secretKey": "",
+    "percentageOfTradeMoney": 100,
+    "step": 0.02,
+    "maxStep": 0.07,
+    "tpCarpan": 3,
+    "takeProfit": "true",
+    "sounds": "false"
+}
